@@ -26,9 +26,6 @@ Actually during trading the traders must have some basic fundamental knowledge a
 The system will use time-series techniques to learn from past performance and adjust the model and the trading suggestions accordingly.
 
 
-The datasets for this project were collected from the MCX official website (2013 - 2023)
-https://www.mcxindia.com/
-
 
 
 
